@@ -1,4 +1,4 @@
-const marks = 45;
+const marks = 85;
 if(marks>80){
     console.log("A+");
     
